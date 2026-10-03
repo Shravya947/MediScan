@@ -1,0 +1,1135 @@
+{
+ "medicines": [
+  {
+   "id": "para",
+   "barcode": "8901000000011",
+   "name": "Paracetamol 500 mg",
+   "emoji": "🟡",
+   "uses": {
+    "en": "Fever and mild to moderate pain such as headache or body ache.",
+    "hi": "बुखार और हल्का से मध्यम दर्द, जैसे सिरदर्द या बदन दर्द।",
+    "kn": "ಜ್ವರ ಮತ್ತು ತಲೆನೋವು, ಮೈಕೈ ನೋವಿನಂತಹ ಸೌಮ್ಯ ನೋವು."
+   },
+   "side_effects": {
+    "en": "Rare at normal doses. Too much can damage the liver. Avoid alcohol.",
+    "hi": "सामान्य खुराक में कम। ज़्यादा लेने से लिवर को नुकसान। शराब से बचें।",
+    "kn": "ಸಾಮಾನ್ಯ ಪ್ರಮಾಣದಲ್ಲಿ ಅಪರೂಪ. ಹೆಚ್ಚು ಸೇವನೆ ಯಕೃತ್ತಿಗೆ ಹಾನಿ. ಮದ್ಯ ಬೇಡ."
+   },
+   "dosage": {
+    "en": "Adults: 1 tablet every 4 to 6 hours if needed. Never more than 4 g (8 tablets) in 24 hours.",
+    "hi": "वयस्क: ज़रूरत हो तो हर 4 से 6 घंटे में 1 गोली। 24 घंटे में 4 ग्राम (8 गोली) से ज़्यादा नहीं।",
+    "kn": "ವಯಸ್ಕರು: ಅಗತ್ಯವಿದ್ದರೆ 4–6 ಗಂಟೆಗೆ 1 ಮಾತ್ರೆ. 24 ಗಂಟೆಯಲ್ಲಿ 4 ಗ್ರಾಂ (8 ಮಾತ್ರೆ) ಮೀರಬಾರದು."
+   },
+   "rx": false,
+   "purpose": "fever"
+  },
+  {
+   "id": "ibu",
+   "barcode": "8901000000028",
+   "name": "Ibuprofen 400 mg",
+   "emoji": "🟠",
+   "uses": {
+    "en": "Pain, inflammation and fever, such as toothache or joint pain.",
+    "hi": "दर्द, सूजन और बुखार, जैसे दाँत या जोड़ों का दर्द।",
+    "kn": "ಹಲ್ಲುನೋವು, ಕೀಲುನೋವು, ಊತ ಮತ್ತು ಜ್ವರ."
+   },
+   "side_effects": {
+    "en": "Stomach pain, acidity, nausea. Can harm kidneys or stomach with long use.",
+    "hi": "पेट दर्द, एसिडिटी, मिचली। लंबे उपयोग से किडनी या पेट को नुकसान।",
+    "kn": "ಹೊಟ್ಟೆನೋವು, ಆಮ್ಲೀಯತೆ, ವಾಕರಿಕೆ. ದೀರ್ಘಕಾಲ ಬಳಸಿದರೆ ಕಿಡ್ನಿ ಅಥವಾ ಹೊಟ್ಟೆಗೆ ಹಾನಿ."
+   },
+   "dosage": {
+    "en": "Adults: 1 tablet up to 3 times a day, after food. Short-term use only.",
+    "hi": "वयस्क: खाने के बाद दिन में 3 बार तक 1 गोली। केवल थोड़े समय के लिए।",
+    "kn": "ವಯಸ್ಕರು: ಊಟದ ನಂತರ ದಿನಕ್ಕೆ ಗರಿಷ್ಠ 3 ಬಾರಿ 1 ಮಾತ್ರೆ. ಅಲ್ಪಕಾಲ ಮಾತ್ರ."
+   },
+   "rx": false,
+   "purpose": "fever"
+  },
+  {
+   "id": "cet",
+   "barcode": "8901000000035",
+   "name": "Cetirizine 10 mg",
+   "emoji": "⚪",
+   "uses": {
+    "en": "Allergy, sneezing, runny nose, itchy skin.",
+    "hi": "एलर्जी, छींक, बहती नाक, खुजली।",
+    "kn": "ಅಲರ್ಜಿ, ಸೀನು, ಮೂಗು ಸೋರುವಿಕೆ, ತುರಿಕೆ."
+   },
+   "side_effects": {
+    "en": "Drowsiness, dry mouth. Be careful when driving.",
+    "hi": "नींद आना, मुँह सूखना। गाड़ी चलाते समय सावधान रहें।",
+    "kn": "ನಿದ್ರೆ, ಬಾಯಿ ಒಣಗುವುದು. ವಾಹನ ಚಾಲನೆಯಲ್ಲಿ ಎಚ್ಚರಿಕೆ."
+   },
+   "dosage": {
+    "en": "Adults: 1 tablet once a day, preferably at night.",
+    "hi": "वयस्क: दिन में एक बार 1 गोली, बेहतर है रात को।",
+    "kn": "ವಯಸ್ಕರು: ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ 1 ಮಾತ್ರೆ, ರಾತ್ರಿ ಉತ್ತಮ."
+   },
+   "rx": false,
+   "purpose": "allergy"
+  },
+  {
+   "id": "pan",
+   "barcode": "8901000000042",
+   "name": "Pantoprazole 40 mg",
+   "emoji": "🔵",
+   "uses": {
+    "en": "Acidity, heartburn and stomach ulcers.",
+    "hi": "एसिडिटी, सीने में जलन और पेट के छाले।",
+    "kn": "ಆಮ್ಲೀಯತೆ, ಎದೆ ಉರಿ ಮತ್ತು ಹೊಟ್ಟೆ ಹುಣ್ಣು."
+   },
+   "side_effects": {
+    "en": "Headache, loose stools, gas. Long use may lower vitamin B12.",
+    "hi": "सिरदर्द, दस्त, गैस। लंबे उपयोग से विटामिन B12 कम हो सकता है।",
+    "kn": "ತಲೆನೋವು, ಭೇದಿ, ಗ್ಯಾಸ್. ದೀರ್ಘಕಾಲ ಬಳಸಿದರೆ ವಿಟಮಿನ್ B12 ಕಡಿಮೆಯಾಗಬಹುದು."
+   },
+   "dosage": {
+    "en": "Adults: 1 tablet once a day, 30 minutes before breakfast, or as your doctor says.",
+    "hi": "वयस्क: दिन में एक बार नाश्ते से 30 मिनट पहले 1 गोली, या डॉक्टर के अनुसार।",
+    "kn": "ವಯಸ್ಕರು: ತಿಂಡಿಗೆ 30 ನಿಮಿಷ ಮೊದಲು ದಿನಕ್ಕೆ 1 ಮಾತ್ರೆ, ಅಥವಾ ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ."
+   },
+   "rx": false,
+   "purpose": "acid"
+  },
+  {
+   "id": "asp",
+   "barcode": "8901000000059",
+   "name": "Aspirin 75 mg",
+   "emoji": "🔴",
+   "uses": {
+    "en": "Low-dose use to help prevent heart attack and stroke, when advised by a doctor.",
+    "hi": "डॉक्टर की सलाह पर हार्ट अटैक और स्ट्रोक रोकने के लिए कम खुराक।",
+    "kn": "ವೈದ್ಯರ ಸಲಹೆಯಂತೆ ಹೃದಯಾಘಾತ ಮತ್ತು ಪಾರ್ಶ್ವವಾಯು ತಡೆಗೆ ಕಡಿಮೆ ಪ್ರಮಾಣ."
+   },
+   "side_effects": {
+    "en": "Stomach upset, easy bruising or bleeding.",
+    "hi": "पेट में गड़बड़ी, आसानी से नील पड़ना या खून बहना।",
+    "kn": "ಹೊಟ್ಟೆ ಕಿರಿಕಿರಿ, ಸುಲಭವಾಗಿ ಬಾಸುಂಡೆ ಅಥವಾ ರಕ್ತಸ್ರಾವ."
+   },
+   "dosage": {
+    "en": "1 tablet once a day after food, only as prescribed.",
+    "hi": "खाने के बाद दिन में एक बार 1 गोली, केवल डॉक्टर के कहने पर।",
+    "kn": "ಊಟದ ನಂತರ ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ 1 ಮಾತ್ರೆ, ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ."
+   },
+   "rx": false,
+   "purpose": "clot"
+  },
+  {
+   "id": "lor",
+   "barcode": "8901000000066",
+   "name": "Loratadine 10 mg",
+   "emoji": "🟡",
+   "rx": false,
+   "uses": {
+    "en": "Allergy: sneezing, runny nose, itchy eyes or skin.",
+    "hi": "एलर्जी: छींक, बहती नाक, खुजली।",
+    "kn": "ಅಲರ್ಜಿ: ಸೀನು, ಮೂಗು ಸೋರುವಿಕೆ, ತುರಿಕೆ."
+   },
+   "side_effects": {
+    "en": "Headache, dry mouth, mild drowsiness in some people.",
+    "hi": "सिरदर्द, मुँह सूखना, कुछ लोगों में हल्की नींद।",
+    "kn": "ತಲೆನೋವು, ಬಾಯಿ ಒಣಗುವುದು, ಕೆಲವರಲ್ಲಿ ಸ್ವಲ್ಪ ನಿದ್ರೆ."
+   },
+   "dosage": {
+    "en": "Adults: 10 mg once a day.",
+    "hi": "वयस्क: दिन में एक बार 10 मिग्रा।",
+    "kn": "ವಯಸ್ಕರು: ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ 10 ಮಿಗ್ರಾಂ."
+   },
+   "purpose": "allergy"
+  },
+  {
+   "id": "fex",
+   "barcode": "8901000000073",
+   "name": "Fexofenadine 120/180 mg",
+   "emoji": "🟠",
+   "rx": false,
+   "uses": {
+    "en": "Allergy: sneezing, runny nose, itchy skin and hives.",
+    "hi": "एलर्जी: छींक, बहती नाक, खुजली और पित्ती।",
+    "kn": "ಅಲರ್ಜಿ: ಸೀನು, ಮೂಗು ಸೋರುವಿಕೆ, ತುರಿಕೆ ಮತ್ತು ದದ್ದು."
+   },
+   "side_effects": {
+    "en": "Headache, nausea, dizziness.",
+    "hi": "सिरदर्द, मिचली, चक्कर।",
+    "kn": "ತಲೆನೋವು, ವಾಕರಿಕೆ, ತಲೆಸುತ್ತು."
+   },
+   "dosage": {
+    "en": "Adults: 120 or 180 mg once a day, as on the label. Do not take with fruit juice.",
+    "hi": "वयस्क: दिन में एक बार 120 या 180 मिग्रा, लेबल के अनुसार। फलों के रस के साथ न लें।",
+    "kn": "ವಯಸ್ಕರು: ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ 120 ಅಥವಾ 180 ಮಿಗ್ರಾಂ, ಲೇಬಲ್ ಪ್ರಕಾರ. ಹಣ್ಣಿನ ರಸದ ಜೊತೆ ಬೇಡ."
+   },
+   "purpose": "allergy"
+  },
+  {
+   "id": "ant",
+   "barcode": "8901000000080",
+   "name": "Antacid (generic)",
+   "emoji": "⚪",
+   "rx": false,
+   "uses": {
+    "en": "Quick relief of acidity and heartburn.",
+    "hi": "एसिडिटी और सीने की जलन से तुरंत राहत।",
+    "kn": "ಆಮ್ಲೀಯತೆ ಮತ್ತು ಎದೆ ಉರಿಗೆ ತಕ್ಷಣದ ಪರಿಹಾರ."
+   },
+   "side_effects": {
+    "en": "Constipation or loose stools depending on type. Can affect how other medicines are absorbed.",
+    "hi": "प्रकार के अनुसार कब्ज़ या दस्त। दूसरी दवाओं के अवशोषण पर असर।",
+    "kn": "ಪ್ರಕಾರದ ಪ್ರಕಾರ ಮಲಬದ್ಧತೆ ಅಥವಾ ಭೇದಿ. ಇತರ ಔಷಧಗಳ ಹೀರಿಕೆಗೆ ಪರಿಣಾಮ."
+   },
+   "dosage": {
+    "en": "Take as per the label, usually after meals and at bedtime. Take other medicines at a different time unless told otherwise.",
+    "hi": "लेबल के अनुसार, आमतौर पर खाने के बाद और सोते समय। दूसरी दवाएँ अलग समय पर लें।",
+    "kn": "ಲೇಬಲ್ ಪ್ರಕಾರ, ಸಾಮಾನ್ಯವಾಗಿ ಊಟದ ನಂತರ ಮತ್ತು ಮಲಗುವ ಮುನ್ನ. ಇತರ ಔಷಧಗಳನ್ನು ಬೇರೆ ಸಮಯದಲ್ಲಿ ಸೇವಿಸಿ."
+   },
+   "purpose": "acid"
+  },
+  {
+   "id": "fam",
+   "barcode": "8901000000087",
+   "name": "Famotidine 20 mg",
+   "emoji": "🔵",
+   "rx": false,
+   "uses": {
+    "en": "Acidity, heartburn and stomach ulcers.",
+    "hi": "एसिडिटी, सीने की जलन और पेट के छाले।",
+    "kn": "ಆಮ್ಲೀಯತೆ, ಎದೆ ಉರಿ ಮತ್ತು ಹೊಟ್ಟೆ ಹುಣ್ಣು."
+   },
+   "side_effects": {
+    "en": "Headache, dizziness, constipation or loose stools.",
+    "hi": "सिरदर्द, चक्कर, कब्ज़ या दस्त।",
+    "kn": "ತಲೆನೋವು, ತಲೆಸುತ್ತು, ಮಲಬದ್ಧತೆ ಅಥವಾ ಭೇದಿ."
+   },
+   "dosage": {
+    "en": "Adults: usually 20 mg once or twice a day. People with kidney problems need a doctor's advice.",
+    "hi": "वयस्क: आमतौर पर दिन में 1 या 2 बार 20 मिग्रा। किडनी की समस्या में डॉक्टर की सलाह ज़रूरी।",
+    "kn": "ವಯಸ್ಕರು: ಸಾಮಾನ್ಯವಾಗಿ ದಿನಕ್ಕೆ 1 ಅಥವಾ 2 ಬಾರಿ 20 ಮಿಗ್ರಾಂ. ಕಿಡ್ನಿ ಸಮಸ್ಯೆ ಇದ್ದರೆ ವೈದ್ಯರ ಸಲಹೆ ಅಗತ್ಯ."
+   },
+   "purpose": "acid"
+  },
+  {
+   "id": "ome",
+   "barcode": "8901000000094",
+   "name": "Omeprazole 20 mg",
+   "emoji": "🔴",
+   "rx": false,
+   "uses": {
+    "en": "Acidity, heartburn and stomach ulcers.",
+    "hi": "एसिडिटी, सीने की जलन और पेट के छाले।",
+    "kn": "ಆಮ್ಲೀಯತೆ, ಎದೆ ಉರಿ ಮತ್ತು ಹೊಟ್ಟೆ ಹುಣ್ಣು."
+   },
+   "side_effects": {
+    "en": "Headache, stomach upset. Long use may lower magnesium and vitamin B12.",
+    "hi": "सिरदर्द, पेट की गड़बड़ी। लंबे उपयोग से मैग्नीशियम और विटामिन B12 घट सकता है।",
+    "kn": "ತಲೆನೋವು, ಹೊಟ್ಟೆ ಕಿರಿಕಿರಿ. ದೀರ್ಘಕಾಲ ಬಳಸಿದರೆ ಮ್ಯಾಗ್ನೀಷಿಯಂ ಮತ್ತು ವಿಟಮಿನ್ B12 ಕಡಿಮೆಯಾಗಬಹುದು."
+   },
+   "dosage": {
+    "en": "Adults: 20 mg once a day, 30 to 60 minutes before breakfast, or as your doctor says.",
+    "hi": "वयस्क: दिन में एक बार 20 मिग्रा, नाश्ते से 30 से 60 मिनट पहले, या डॉक्टर के अनुसार।",
+    "kn": "ವಯಸ್ಕರು: ತಿಂಡಿಗೆ 30–60 ನಿಮಿಷ ಮೊದಲು ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ 20 ಮಿಗ್ರಾಂ, ಅಥವಾ ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ."
+   },
+   "purpose": "acid"
+  },
+  {
+   "id": "ors",
+   "barcode": "8901000000101",
+   "name": "ORS (oral rehydration salts)",
+   "emoji": "🥤",
+   "rx": false,
+   "uses": {
+    "en": "Replaces water and salts lost in diarrhea or vomiting.",
+    "hi": "दस्त या उल्टी में खोए पानी और नमक की पूर्ति।",
+    "kn": "ಭೇದಿ ಅಥವಾ ವಾಂತಿಯಲ್ಲಿ ಕಳೆದ ನೀರು ಮತ್ತು ಲವಣಗಳ ಪೂರೈಕೆ."
+   },
+   "side_effects": {
+    "en": "Vomiting if drunk too fast. Wrong water amount makes it less safe.",
+    "hi": "बहुत जल्दी पीने पर उल्टी। पानी की मात्रा गलत होने पर कम सुरक्षित।",
+    "kn": "ಬೇಗ ಕುಡಿದರೆ ವಾಂತಿ. ನೀರಿನ ಪ್ರಮಾಣ ತಪ್ಪಿದರೆ ಕಡಿಮೆ ಸುರಕ್ಷಿತ."
+   },
+   "dosage": {
+    "en": "Mix one packet in exactly the water amount printed on it. Sip after each loose stool. See a doctor if diarrhea lasts over 2 days, or sooner for babies, elders, blood in stool or high fever.",
+    "hi": "एक पैकेट को उस पर लिखी पानी की सही मात्रा में घोलें। हर पतले दस्त के बाद घूँट-घूँट पिएँ। दस्त 2 दिन से ज़्यादा चले, या शिशु, बुज़ुर्ग, मल में खून या तेज़ बुखार हो तो डॉक्टर को दिखाएँ।",
+    "kn": "ಒಂದು ಪ್ಯಾಕೆಟ್ ಅನ್ನು ಅದರ ಮೇಲೆ ಬರೆದ ನೀರಿನ ಪ್ರಮಾಣದಲ್ಲಿ ಕರಗಿಸಿ. ಪ್ರತಿ ಭೇದಿಯ ನಂತರ ಗುಟುಕು ಗುಟುಕಾಗಿ ಕುಡಿಯಿರಿ. ಭೇದಿ 2 ದಿನಕ್ಕಿಂತ ಹೆಚ್ಚು ಇದ್ದರೆ, ಅಥವಾ ಶಿಶು, ವೃದ್ಧರು, ಮಲದಲ್ಲಿ ರಕ್ತ ಅಥವಾ ಹೆಚ್ಚು ಜ್ವರ ಇದ್ದರೆ ವೈದ್ಯರನ್ನು ಕಾಣಿ."
+   },
+   "purpose": "diar"
+  },
+  {
+   "id": "zin",
+   "barcode": "8901000000108",
+   "name": "Zinc (for children's diarrhea)",
+   "emoji": "🟢",
+   "rx": false,
+   "uses": {
+    "en": "Given with ORS to children with diarrhea to shorten it.",
+    "hi": "बच्चों के दस्त में ORS के साथ, दस्त जल्दी ठीक करने के लिए।",
+    "kn": "ಮಕ್ಕಳ ಭೇದಿಯಲ್ಲಿ ORS ಜೊತೆ, ಬೇಗ ಗುಣವಾಗಲು."
+   },
+   "side_effects": {
+    "en": "Nausea or stomach upset.",
+    "hi": "मिचली या पेट की गड़बड़ी।",
+    "kn": "ವಾಕರಿಕೆ ಅಥವಾ ಹೊಟ್ಟೆ ಕಿರಿಕಿರಿ."
+   },
+   "dosage": {
+    "en": "Dose depends on the child's age and is usually given for 10 to 14 days. Follow a doctor's advice.",
+    "hi": "खुराक बच्चे की उम्र पर निर्भर है, आमतौर पर 10 से 14 दिन। डॉक्टर की सलाह मानें।",
+    "kn": "ಪ್ರಮಾಣ ಮಗುವಿನ ವಯಸ್ಸಿಗೆ ಅನುಗುಣ, ಸಾಮಾನ್ಯವಾಗಿ 10–14 ದಿನ. ವೈದ್ಯರ ಸಲಹೆ ಪಾಲಿಸಿ."
+   },
+   "purpose": "diar"
+  },
+  {
+   "id": "isa",
+   "barcode": "8901000000115",
+   "name": "Psyllium (isabgol)",
+   "emoji": "🥄",
+   "rx": false,
+   "uses": {
+    "en": "Constipation. Adds bulk and softness to stool.",
+    "hi": "कब्ज़। मल को मुलायम और भारी बनाता है।",
+    "kn": "ಮಲಬದ್ಧತೆ. ಮಲವನ್ನು ಮೃದು ಮತ್ತು ಭಾರವಾಗಿಸುತ್ತದೆ."
+   },
+   "side_effects": {
+    "en": "Gas and bloating. Can cause choking if taken dry.",
+    "hi": "गैस, पेट फूलना। सूखा लेने पर गले में अटकने का खतरा।",
+    "kn": "ಗ್ಯಾಸ್, ಹೊಟ್ಟೆ ಉಬ್ಬರ. ಒಣಗಿ ತೆಗೆದುಕೊಂಡರೆ ಗಂಟಲಲ್ಲಿ ಸಿಲುಕುವ ಅಪಾಯ."
+   },
+   "dosage": {
+    "en": "Mix in a full glass of water, drink at once, and drink plenty of fluids through the day. Follow the label.",
+    "hi": "एक पूरे गिलास पानी में मिलाकर तुरंत पिएँ और दिन भर खूब पानी पिएँ। लेबल देखें।",
+    "kn": "ಒಂದು ಪೂರ್ಣ ಲೋಟ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ತಕ್ಷಣ ಕುಡಿಯಿರಿ ಮತ್ತು ದಿನವಿಡೀ ಸಾಕಷ್ಟು ನೀರು ಕುಡಿಯಿರಿ. ಲೇಬಲ್ ನೋಡಿ."
+   },
+   "purpose": "const"
+  },
+  {
+   "id": "lac",
+   "barcode": "8901000000122",
+   "name": "Lactulose",
+   "emoji": "🟣",
+   "rx": false,
+   "uses": {
+    "en": "Constipation.",
+    "hi": "कब्ज़।",
+    "kn": "ಮಲಬದ್ಧತೆ."
+   },
+   "side_effects": {
+    "en": "Gas, bloating, loose stools.",
+    "hi": "गैस, पेट फूलना, पतला मल।",
+    "kn": "ಗ್ಯಾಸ್, ಹೊಟ್ಟೆ ಉಬ್ಬರ, ತೆಳು ಮಲ."
+   },
+   "dosage": {
+    "en": "As on the label or as your doctor says. It can take 1 to 2 days to work.",
+    "hi": "लेबल या डॉक्टर के अनुसार। असर में 1 से 2 दिन लग सकते हैं।",
+    "kn": "ಲೇಬಲ್ ಅಥವಾ ವೈದ್ಯರ ಪ್ರಕಾರ. ಪರಿಣಾಮಕ್ಕೆ 1–2 ದಿನ ಬೇಕಾಗಬಹುದು."
+   },
+   "purpose": "const"
+  },
+  {
+   "id": "peg",
+   "barcode": "8901000000129",
+   "name": "Polyethylene glycol (PEG)",
+   "emoji": "🟤",
+   "rx": false,
+   "uses": {
+    "en": "Constipation.",
+    "hi": "कब्ज़।",
+    "kn": "ಮಲಬದ್ಧತೆ."
+   },
+   "side_effects": {
+    "en": "Bloating, nausea, loose stools.",
+    "hi": "पेट फूलना, मिचली, पतला मल।",
+    "kn": "ಹೊಟ್ಟೆ ಉಬ್ಬರ, ವಾಕರಿಕೆ, ತೆಳು ಮಲ."
+   },
+   "dosage": {
+    "en": "Dissolve the powder in water as on the label. Stop if you get diarrhea.",
+    "hi": "लेबल के अनुसार पाउडर पानी में घोलें। दस्त होने पर बंद करें।",
+    "kn": "ಲೇಬಲ್ ಪ್ರಕಾರ ಪುಡಿಯನ್ನು ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ. ಭೇದಿ ಆದರೆ ನಿಲ್ಲಿಸಿ."
+   },
+   "purpose": "const"
+  },
+  {
+   "id": "ond",
+   "barcode": "8901000000136",
+   "name": "Ondansetron 4 mg",
+   "emoji": "🟡",
+   "rx": true,
+   "uses": {
+    "en": "Prevents and treats nausea and vomiting.",
+    "hi": "मिचली और उल्टी रोकना व ठीक करना।",
+    "kn": "ವಾಕರಿಕೆ ಮತ್ತು ವಾಂತಿ ತಡೆ ಮತ್ತು ಚಿಕಿತ್ಸೆ."
+   },
+   "side_effects": {
+    "en": "Headache, constipation, tiredness. Can affect heart rhythm.",
+    "hi": "सिरदर्द, कब्ज़, थकान। दिल की धड़कन पर असर संभव।",
+    "kn": "ತಲೆನೋವು, ಮಲಬದ್ಧತೆ, ಆಯಾಸ. ಹೃದಯದ ಲಯದ ಮೇಲೆ ಪರಿಣಾಮ ಸಾಧ್ಯ."
+   },
+   "dosage": {
+    "en": "Only as prescribed by your doctor. Do not stop suddenly without advice.",
+    "hi": "केवल डॉक्टर के कहने पर लें। अचानक बंद न करें।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ ಬಳಸಿ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "nau"
+  },
+  {
+   "id": "met2",
+   "barcode": "8901000000143",
+   "name": "Metoclopramide 10 mg",
+   "emoji": "🟠",
+   "rx": true,
+   "uses": {
+    "en": "Nausea, vomiting and slow stomach emptying.",
+    "hi": "मिचली, उल्टी और पेट देर से खाली होना।",
+    "kn": "ವಾಕರಿಕೆ, ವಾಂತಿ ಮತ್ತು ಹೊಟ್ಟೆ ನಿಧಾನವಾಗಿ ಖಾಲಿಯಾಗುವುದು."
+   },
+   "side_effects": {
+    "en": "Drowsiness, restlessness. Rarely abnormal muscle movements that need urgent care. Not for long-term use.",
+    "hi": "नींद, बेचैनी। कभी-कभी असामान्य मांसपेशी हरकतें जिनमें तुरंत इलाज चाहिए। लंबे समय के लिए नहीं।",
+    "kn": "ನಿದ್ರೆ, ಚಡಪಡಿಕೆ. ಅಪರೂಪಕ್ಕೆ ಅಸಹಜ ಸ್ನಾಯು ಚಲನೆ, ತಕ್ಷಣ ಚಿಕಿತ್ಸೆ ಬೇಕು. ದೀರ್ಘಕಾಲಕ್ಕೆ ಅಲ್ಲ."
+   },
+   "dosage": {
+    "en": "Only as prescribed, for short courses.",
+    "hi": "केवल डॉक्टर के कहने पर, थोड़े समय के लिए।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ, ಅಲ್ಪಕಾಲ."
+   },
+   "purpose": "nau"
+  },
+  {
+   "id": "dex",
+   "barcode": "8901000000150",
+   "name": "Dextromethorphan (cough syrup)",
+   "emoji": "🧴",
+   "rx": false,
+   "uses": {
+    "en": "Dry, irritating cough.",
+    "hi": "सूखी, परेशान करने वाली खाँसी।",
+    "kn": "ಒಣ, ಕಿರಿಕಿರಿ ಉಂಟುಮಾಡುವ ಕೆಮ್ಮು."
+   },
+   "side_effects": {
+    "en": "Drowsiness, dizziness. Dangerous with some antidepressants.",
+    "hi": "नींद, चक्कर। कुछ अवसाद-रोधी दवाओं के साथ खतरनाक।",
+    "kn": "ನಿದ್ರೆ, ತಲೆಸುತ್ತು. ಕೆಲವು ಖಿನ್ನತೆ ಔಷಧಗಳ ಜೊತೆ ಅಪಾಯಕಾರಿ."
+   },
+   "dosage": {
+    "en": "Follow the label for age. Not for young children unless a doctor advises.",
+    "hi": "उम्र के अनुसार लेबल देखें। छोटे बच्चों को डॉक्टर की सलाह के बिना न दें।",
+    "kn": "ವಯಸ್ಸಿಗೆ ತಕ್ಕಂತೆ ಲೇಬಲ್ ನೋಡಿ. ಸಣ್ಣ ಮಕ್ಕಳಿಗೆ ವೈದ್ಯರ ಸಲಹೆ ಇಲ್ಲದೆ ಕೊಡಬೇಡಿ."
+   },
+   "purpose": "cough"
+  },
+  {
+   "id": "gua",
+   "barcode": "8901000000157",
+   "name": "Guaifenesin (expectorant)",
+   "emoji": "🧴",
+   "rx": false,
+   "uses": {
+    "en": "Loosens thick mucus in a chesty cough.",
+    "hi": "बलगम वाली खाँसी में गाढ़ा बलगम ढीला करता है।",
+    "kn": "ಕಫದ ಕೆಮ್ಮಿನಲ್ಲಿ ದಪ್ಪ ಕಫವನ್ನು ಸಡಿಲಗೊಳಿಸುತ್ತದೆ."
+   },
+   "side_effects": {
+    "en": "Nausea, stomach upset.",
+    "hi": "मिचली, पेट की गड़बड़ी।",
+    "kn": "ವಾಕರಿಕೆ, ಹೊಟ್ಟೆ ಕಿರಿಕಿರಿ."
+   },
+   "dosage": {
+    "en": "Follow the label and drink plenty of water.",
+    "hi": "लेबल के अनुसार लें और खूब पानी पिएँ।",
+    "kn": "ಲೇಬಲ್ ಪ್ರಕಾರ ಬಳಸಿ ಮತ್ತು ಸಾಕಷ್ಟು ನೀರು ಕುಡಿಯಿರಿ."
+   },
+   "purpose": "cough"
+  },
+  {
+   "id": "sal",
+   "barcode": "8901000000164",
+   "name": "Saline nasal spray",
+   "emoji": "👃",
+   "rx": false,
+   "uses": {
+    "en": "Relieves a blocked nose. Safe for frequent use.",
+    "hi": "बंद नाक से राहत। बार-बार इस्तेमाल सुरक्षित।",
+    "kn": "ಮೂಗು ಕಟ್ಟುವಿಕೆಗೆ ಪರಿಹಾರ. ಪದೇ ಪದೇ ಬಳಸಲು ಸುರಕ್ಷಿತ."
+   },
+   "side_effects": {
+    "en": "Mild nose irritation.",
+    "hi": "नाक में हल्की जलन।",
+    "kn": "ಮೂಗಿನಲ್ಲಿ ಸ್ವಲ್ಪ ಕಿರಿಕಿರಿ."
+   },
+   "dosage": {
+    "en": "1 to 2 sprays in each nostril as needed.",
+    "hi": "ज़रूरत होने पर हर नथुने में 1 से 2 स्प्रे।",
+    "kn": "ಅಗತ್ಯವಿದ್ದಾಗ ಪ್ರತಿ ಮೂಗಿನ ಹೊಳ್ಳೆಗೆ 1–2 ಸ್ಪ್ರೇ."
+   },
+   "purpose": "cough"
+  },
+  {
+   "id": "clo",
+   "barcode": "8901000000171",
+   "name": "Clotrimazole cream",
+   "emoji": "🧴",
+   "rx": false,
+   "uses": {
+    "en": "Fungal skin infections such as ringworm and athlete's foot.",
+    "hi": "त्वचा के फंगल संक्रमण जैसे दाद और एथलीट फुट।",
+    "kn": "ಕಜ್ಜಿ ಮತ್ತು ಅಥ್ಲೀಟ್ಸ್ ಫುಟ್‌ನಂತಹ ಚರ್ಮದ ಶಿಲೀಂಧ್ರ ಸೋಂಕು."
+   },
+   "side_effects": {
+    "en": "Mild burning or redness.",
+    "hi": "हल्की जलन या लालिमा।",
+    "kn": "ಸ್ವಲ್ಪ ಉರಿ ಅಥವಾ ಕೆಂಪು."
+   },
+   "dosage": {
+    "en": "Apply a thin layer to clean, dry skin 2 to 3 times a day. Continue for the time on the label even if the skin looks better.",
+    "hi": "साफ, सूखी त्वचा पर दिन में 2 से 3 बार पतली परत लगाएँ। त्वचा ठीक दिखे तब भी लेबल में लिखे समय तक लगाएँ।",
+    "kn": "ಸ್ವಚ್ಛ, ಒಣ ಚರ್ಮದ ಮೇಲೆ ದಿನಕ್ಕೆ 2–3 ಬಾರಿ ತೆಳುವಾಗಿ ಹಚ್ಚಿ. ಚರ್ಮ ಗುಣವಾದಂತೆ ಕಂಡರೂ ಲೇಬಲ್‌ನಲ್ಲಿರುವ ಅವಧಿವರೆಗೆ ಮುಂದುವರಿಸಿ."
+   },
+   "purpose": "fungal"
+  },
+  {
+   "id": "ter",
+   "barcode": "8901000000178",
+   "name": "Terbinafine",
+   "emoji": "🧴",
+   "rx": false,
+   "uses": {
+    "en": "Fungal infections of skin and nails.",
+    "hi": "त्वचा और नाखून के फंगल संक्रमण।",
+    "kn": "ಚರ್ಮ ಮತ್ತು ಉಗುರಿನ ಶಿಲೀಂಧ್ರ ಸೋಂಕು."
+   },
+   "side_effects": {
+    "en": "Cream: mild irritation. Tablets can affect the liver.",
+    "hi": "क्रीम: हल्की जलन। गोलियाँ लिवर पर असर कर सकती हैं।",
+    "kn": "ಕ್ರೀಮ್: ಸ್ವಲ್ಪ ಕಿರಿಕಿರಿ. ಮಾತ್ರೆಗಳು ಯಕೃತ್ತಿನ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು."
+   },
+   "dosage": {
+    "en": "Cream: once or twice a day as per label. Tablets only as prescribed.",
+    "hi": "क्रीम: लेबल के अनुसार दिन में 1 या 2 बार। गोलियाँ केवल डॉक्टर के कहने पर।",
+    "kn": "ಕ್ರೀಮ್: ಲೇಬಲ್ ಪ್ರಕಾರ ದಿನಕ್ಕೆ 1 ಅಥವಾ 2 ಬಾರಿ. ಮಾತ್ರೆಗಳು ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ."
+   },
+   "purpose": "fungal"
+  },
+  {
+   "id": "amx",
+   "barcode": "8901000000185",
+   "name": "Amoxicillin 500 mg",
+   "emoji": "⚪",
+   "rx": true,
+   "uses": {
+    "en": "Bacterial infections, only when your doctor prescribes it.",
+    "hi": "बैक्टीरिया संक्रमण, केवल डॉक्टर के कहने पर।",
+    "kn": "ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೋಂಕು, ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ."
+   },
+   "side_effects": {
+    "en": "Diarrhea, rash. Get urgent help for face swelling or trouble breathing (allergy).",
+    "hi": "दस्त, दाने। चेहरे पर सूजन या साँस में तकलीफ (एलर्जी) हो तो तुरंत मदद लें।",
+    "kn": "ಭೇದಿ, ದದ್ದು. ಮುಖ ಊತ ಅಥವಾ ಉಸಿರಾಟದ ತೊಂದರೆ (ಅಲರ್ಜಿ) ಇದ್ದರೆ ತಕ್ಷಣ ಸಹಾಯ ಪಡೆಯಿರಿ."
+   },
+   "dosage": {
+    "en": "Only as prescribed. Finish the full course. Do not share or save leftovers. Does not work for colds or flu.",
+    "hi": "केवल डॉक्टर के कहने पर लें। पूरा कोर्स करें। बचा हुआ न रखें या बाँटें नहीं। सर्दी-ज़ुकाम और फ्लू पर असर नहीं करती।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ ಬಳಸಿ. ಪೂರ್ಣ ಕೋರ್ಸ್ ಮುಗಿಸಿ. ಉಳಿದದ್ದನ್ನು ಇಟ್ಟುಕೊಳ್ಳಬೇಡಿ ಅಥವಾ ಹಂಚಬೇಡಿ. ಶೀತ ಮತ್ತು ಜ್ವರಕ್ಕೆ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ."
+   },
+   "purpose": "bact"
+  },
+  {
+   "id": "azi",
+   "barcode": "8901000000192",
+   "name": "Azithromycin 500 mg",
+   "emoji": "🔵",
+   "rx": true,
+   "uses": {
+    "en": "Some bacterial infections, only when your doctor prescribes it.",
+    "hi": "कुछ बैक्टीरिया संक्रमण, केवल डॉक्टर के कहने पर।",
+    "kn": "ಕೆಲವು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೋಂಕು, ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ."
+   },
+   "side_effects": {
+    "en": "Nausea, loose stools, stomach pain. Can affect heart rhythm.",
+    "hi": "मिचली, पतला मल, पेट दर्द। दिल की धड़कन पर असर संभव।",
+    "kn": "ವಾಕರಿಕೆ, ತೆಳು ಮಲ, ಹೊಟ್ಟೆನೋವು. ಹೃದಯದ ಲಯದ ಮೇಲೆ ಪರಿಣಾಮ ಸಾಧ್ಯ."
+   },
+   "dosage": {
+    "en": "Only as prescribed. Finish the full course. Does not work for colds or flu.",
+    "hi": "केवल डॉक्टर के कहने पर लें। पूरा कोर्स करें। बचा हुआ न रखें या बाँटें नहीं। सर्दी-ज़ुकाम और फ्लू पर असर नहीं करती।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ ಬಳಸಿ. ಪೂರ್ಣ ಕೋರ್ಸ್ ಮುಗಿಸಿ. ಉಳಿದದ್ದನ್ನು ಇಟ್ಟುಕೊಳ್ಳಬೇಡಿ ಅಥವಾ ಹಂಚಬೇಡಿ. ಶೀತ ಮತ್ತು ಜ್ವರಕ್ಕೆ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ."
+   },
+   "purpose": "bact"
+  },
+  {
+   "id": "sbt",
+   "barcode": "8901000000199",
+   "name": "Salbutamol inhaler",
+   "emoji": "🌬️",
+   "rx": true,
+   "uses": {
+    "en": "Quick relief of wheeze and breathlessness in asthma.",
+    "hi": "दमे में घरघराहट और साँस फूलने से तुरंत राहत।",
+    "kn": "ಅಸ್ತಮಾದಲ್ಲಿ ಉಬ್ಬಸ ಮತ್ತು ಉಸಿರಾಟದ ತೊಂದರೆಗೆ ತಕ್ಷಣದ ಪರಿಹಾರ."
+   },
+   "side_effects": {
+    "en": "Shaky hands, fast heartbeat, headache.",
+    "hi": "हाथ काँपना, तेज़ धड़कन, सिरदर्द।",
+    "kn": "ಕೈ ನಡುಗುವಿಕೆ, ವೇಗದ ಹೃದಯ ಬಡಿತ, ತಲೆನೋವು."
+   },
+   "dosage": {
+    "en": "Use as your doctor has shown you. Needing it more often than usual means your asthma needs review. Go to hospital for severe breathlessness.",
+    "hi": "डॉक्टर के बताए तरीके से इस्तेमाल करें। सामान्य से ज़्यादा ज़रूरत पड़े तो दमे की समीक्षा कराएँ। साँस बहुत फूले तो अस्पताल जाएँ।",
+    "kn": "ವೈದ್ಯರು ತೋರಿಸಿದಂತೆ ಬಳಸಿ. ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಬೇಕಾದರೆ ಅಸ್ತಮಾ ಪರಿಶೀಲನೆ ಅಗತ್ಯ. ತೀವ್ರ ಉಸಿರಾಟದ ತೊಂದರೆಯಲ್ಲಿ ಆಸ್ಪತ್ರೆಗೆ ಹೋಗಿ."
+   },
+   "purpose": "asth"
+  },
+  {
+   "id": "bud",
+   "barcode": "8901000000206",
+   "name": "Budesonide inhaler",
+   "emoji": "🌬️",
+   "rx": true,
+   "uses": {
+    "en": "Daily inhaled steroid that prevents asthma attacks.",
+    "hi": "दमे के दौरे रोकने वाला रोज़ का स्टेरॉइड इनहेलर।",
+    "kn": "ಅಸ್ತಮಾ ದಾಳಿ ತಡೆಯುವ ದಿನನಿತ್ಯದ ಸ್ಟೆರಾಯ್ಡ್ ಇನ್ಹೇಲರ್."
+   },
+   "side_effects": {
+    "en": "Hoarse voice, mouth thrush. Rinse your mouth after use.",
+    "hi": "आवाज़ बैठना, मुँह में फफूँद। इस्तेमाल के बाद कुल्ला करें।",
+    "kn": "ಧ್ವನಿ ಒರಟಾಗುವುದು, ಬಾಯಿಯಲ್ಲಿ ಶಿಲೀಂಧ್ರ. ಬಳಸಿದ ನಂತರ ಬಾಯಿ ಮುಕ್ಕಳಿಸಿ."
+   },
+   "dosage": {
+    "en": "Regular daily use as prescribed. It does not give quick relief.",
+    "hi": "डॉक्टर के अनुसार रोज़ लें। यह तुरंत राहत नहीं देता।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಪ್ರತಿದಿನ ಬಳಸಿ. ಇದು ತಕ್ಷಣದ ಪರಿಹಾರ ನೀಡುವುದಿಲ್ಲ."
+   },
+   "purpose": "asth"
+  },
+  {
+   "id": "aml",
+   "barcode": "8901000000213",
+   "name": "Amlodipine 5 mg",
+   "emoji": "🔴",
+   "rx": true,
+   "uses": {
+    "en": "High blood pressure and chest pain (angina).",
+    "hi": "उच्च रक्तचाप और सीने का दर्द (एंजाइना)।",
+    "kn": "ಅಧಿಕ ರಕ್ತದೊತ್ತಡ ಮತ್ತು ಎದೆನೋವು (ಆಂಜೈನಾ)."
+   },
+   "side_effects": {
+    "en": "Swollen ankles, flushing, headache, dizziness.",
+    "hi": "टखनों में सूजन, चेहरा लाल होना, सिरदर्द, चक्कर।",
+    "kn": "ಕಣಕಾಲು ಊತ, ಮುಖ ಕೆಂಪಾಗುವುದು, ತಲೆನೋವು, ತಲೆಸುತ್ತು."
+   },
+   "dosage": {
+    "en": "Usually once a day, as prescribed. Do not stop suddenly.",
+    "hi": "आमतौर पर दिन में एक बार, डॉक्टर के अनुसार। अचानक बंद न करें।",
+    "kn": "ಸಾಮಾನ್ಯವಾಗಿ ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ, ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "bp"
+  },
+  {
+   "id": "los",
+   "barcode": "8901000000220",
+   "name": "Losartan 50 mg",
+   "emoji": "🟢",
+   "rx": true,
+   "uses": {
+    "en": "High blood pressure. Protects kidneys in diabetes.",
+    "hi": "उच्च रक्तचाप। मधुमेह में किडनी की सुरक्षा।",
+    "kn": "ಅಧಿಕ ರಕ್ತದೊತ್ತಡ. ಮಧುಮೇಹದಲ್ಲಿ ಕಿಡ್ನಿ ರಕ್ಷಣೆ."
+   },
+   "side_effects": {
+    "en": "Dizziness, high potassium. Not for use in pregnancy.",
+    "hi": "चक्कर, पोटैशियम बढ़ना। गर्भावस्था में न लें।",
+    "kn": "ತಲೆಸುತ್ತು, ಪೊಟ್ಯಾಸಿಯಂ ಹೆಚ್ಚಳ. ಗರ್ಭಾವಸ್ಥೆಯಲ್ಲಿ ಬಳಸಬೇಡಿ."
+   },
+   "dosage": {
+    "en": "Usually once a day, as prescribed. Do not stop suddenly.",
+    "hi": "आमतौर पर दिन में एक बार, डॉक्टर के अनुसार। अचानक बंद न करें।",
+    "kn": "ಸಾಮಾನ್ಯವಾಗಿ ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ, ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "bp"
+  },
+  {
+   "id": "tel",
+   "barcode": "8901000000227",
+   "name": "Telmisartan 40 mg",
+   "emoji": "🟣",
+   "rx": true,
+   "uses": {
+    "en": "High blood pressure.",
+    "hi": "उच्च रक्तचाप।",
+    "kn": "ಅಧಿಕ ರಕ್ತದೊತ್ತಡ."
+   },
+   "side_effects": {
+    "en": "Dizziness, high potassium. Not for use in pregnancy.",
+    "hi": "चक्कर, पोटैशियम बढ़ना। गर्भावस्था में न लें।",
+    "kn": "ತಲೆಸುತ್ತು, ಪೊಟ್ಯಾಸಿಯಂ ಹೆಚ್ಚಳ. ಗರ್ಭಾವಸ್ಥೆಯಲ್ಲಿ ಬಳಸಬೇಡಿ."
+   },
+   "dosage": {
+    "en": "Usually once a day, as prescribed. Do not stop suddenly.",
+    "hi": "आमतौर पर दिन में एक बार, डॉक्टर के अनुसार। अचानक बंद न करें।",
+    "kn": "ಸಾಮಾನ್ಯವಾಗಿ ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ, ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "bp"
+  },
+  {
+   "id": "ena",
+   "barcode": "8901000000234",
+   "name": "Enalapril 5 mg",
+   "emoji": "🟤",
+   "rx": true,
+   "uses": {
+    "en": "High blood pressure and heart failure.",
+    "hi": "उच्च रक्तचाप और हृदय की विफलता।",
+    "kn": "ಅಧಿಕ ರಕ್ತದೊತ್ತಡ ಮತ್ತು ಹೃದಯ ವೈಫಲ್ಯ."
+   },
+   "side_effects": {
+    "en": "Dry cough, dizziness, high potassium. Not in pregnancy. Swelling of lips or face needs urgent care.",
+    "hi": "सूखी खाँसी, चक्कर, पोटैशियम बढ़ना। गर्भावस्था में न लें। होंठ या चेहरे की सूजन में तुरंत इलाज।",
+    "kn": "ಒಣ ಕೆಮ್ಮು, ತಲೆಸುತ್ತು, ಪೊಟ್ಯಾಸಿಯಂ ಹೆಚ್ಚಳ. ಗರ್ಭಾವಸ್ಥೆಯಲ್ಲಿ ಬೇಡ. ತುಟಿ ಅಥವಾ ಮುಖ ಊತಕ್ಕೆ ತಕ್ಷಣ ಚಿಕಿತ್ಸೆ."
+   },
+   "dosage": {
+    "en": "Only as prescribed. Do not stop suddenly.",
+    "hi": "केवल डॉक्टर के कहने पर लें। अचानक बंद न करें।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ ಬಳಸಿ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "bp"
+  },
+  {
+   "id": "mtf",
+   "barcode": "8901000000241",
+   "name": "Metformin 500 mg",
+   "emoji": "🟡",
+   "rx": true,
+   "uses": {
+    "en": "Type 2 diabetes.",
+    "hi": "टाइप 2 मधुमेह।",
+    "kn": "ಟೈಪ್ 2 ಮಧುಮೇಹ."
+   },
+   "side_effects": {
+    "en": "Nausea, loose stools, metallic taste. Rarely a serious acid build-up in the blood.",
+    "hi": "मिचली, पतला मल, मुँह में धातु जैसा स्वाद। कभी-कभी खून में एसिड बनना।",
+    "kn": "ವಾಕರಿಕೆ, ತೆಳು ಮಲ, ಬಾಯಲ್ಲಿ ಲೋಹದ ರುಚಿ. ಅಪರೂಪಕ್ಕೆ ರಕ್ತದಲ್ಲಿ ಆಮ್ಲ ಹೆಚ್ಚಳ."
+   },
+   "dosage": {
+    "en": "Only as prescribed, usually with or after meals.",
+    "hi": "केवल डॉक्टर के कहने पर, आमतौर पर खाने के साथ या बाद में।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ, ಸಾಮಾನ್ಯವಾಗಿ ಊಟದ ಜೊತೆ ಅಥವಾ ನಂತರ."
+   },
+   "purpose": "diab"
+  },
+  {
+   "id": "ins",
+   "barcode": "8901000000248",
+   "name": "Insulin",
+   "emoji": "💉",
+   "rx": true,
+   "uses": {
+    "en": "Controls blood sugar in diabetes.",
+    "hi": "मधुमेह में रक्त शर्करा नियंत्रित करता है।",
+    "kn": "ಮಧುಮೇಹದಲ್ಲಿ ರಕ್ತದ ಸಕ್ಕರೆ ನಿಯಂತ್ರಿಸುತ್ತದೆ."
+   },
+   "side_effects": {
+    "en": "Low blood sugar (sweating, shaking, confusion). Keep a sugar source handy.",
+    "hi": "शुगर कम होना (पसीना, काँपना, भ्रम)। चीनी पास रखें।",
+    "kn": "ಸಕ್ಕರೆ ಕಡಿಮೆಯಾಗುವುದು (ಬೆವರು, ನಡುಕ, ಗೊಂದಲ). ಸಕ್ಕರೆ ಹತ್ತಿರ ಇಡಿ."
+   },
+   "dosage": {
+    "en": "Type and dose are set by your doctor. Store unopened insulin in a fridge. Do not freeze.",
+    "hi": "प्रकार और खुराक डॉक्टर तय करते हैं। न खुला इंसुलिन फ्रिज में रखें, जमाएँ नहीं।",
+    "kn": "ಬಗೆ ಮತ್ತು ಪ್ರಮಾಣವನ್ನು ವೈದ್ಯರು ನಿರ್ಧರಿಸುತ್ತಾರೆ. ತೆರೆಯದ ಇನ್ಸುಲಿನ್ ಅನ್ನು ಫ್ರಿಜ್‌ನಲ್ಲಿ ಇಡಿ, ಹೆಪ್ಪುಗಟ್ಟಿಸಬೇಡಿ."
+   },
+   "purpose": "diab"
+  },
+  {
+   "id": "ato",
+   "barcode": "8901000000255",
+   "name": "Atorvastatin 10 mg",
+   "emoji": "🟠",
+   "rx": true,
+   "uses": {
+    "en": "Lowers cholesterol and the risk of heart attack.",
+    "hi": "कोलेस्ट्रॉल कम करता है और हार्ट अटैक का जोखिम घटाता है।",
+    "kn": "ಕೊಲೆಸ್ಟ್ರಾಲ್ ಕಡಿಮೆ ಮಾಡಿ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಗ್ಗಿಸುತ್ತದೆ."
+   },
+   "side_effects": {
+    "en": "Muscle pain, stomach upset. Report severe unexplained muscle pain or dark urine.",
+    "hi": "मांसपेशियों में दर्द, पेट की गड़बड़ी। बहुत तेज़ दर्द या गहरे रंग का पेशाब हो तो बताएँ।",
+    "kn": "ಸ್ನಾಯು ನೋವು, ಹೊಟ್ಟೆ ಕಿರಿಕಿರಿ. ತೀವ್ರ ನೋವು ಅಥವಾ ಗಾಢ ಮೂತ್ರ ಇದ್ದರೆ ತಿಳಿಸಿ."
+   },
+   "dosage": {
+    "en": "Usually once a day, as prescribed.",
+    "hi": "आमतौर पर दिन में एक बार, डॉक्टर के अनुसार।",
+    "kn": "ಸಾಮಾನ್ಯವಾಗಿ ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ, ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ."
+   },
+   "purpose": "chol"
+  },
+  {
+   "id": "ros",
+   "barcode": "8901000000262",
+   "name": "Rosuvastatin 10 mg",
+   "emoji": "⚪",
+   "rx": true,
+   "uses": {
+    "en": "Lowers cholesterol and the risk of heart attack.",
+    "hi": "कोलेस्ट्रॉल कम करता है और हार्ट अटैक का जोखिम घटाता है।",
+    "kn": "ಕೊಲೆಸ್ಟ್ರಾಲ್ ಕಡಿಮೆ ಮಾಡಿ ಹೃದಯಾಘಾತದ ಅಪಾಯ ತಗ್ಗಿಸುತ್ತದೆ."
+   },
+   "side_effects": {
+    "en": "Muscle pain, stomach upset. Report severe unexplained muscle pain or dark urine.",
+    "hi": "मांसपेशियों में दर्द, पेट की गड़बड़ी। बहुत तेज़ दर्द या गहरे रंग का पेशाब हो तो बताएँ।",
+    "kn": "ಸ್ನಾಯು ನೋವು, ಹೊಟ್ಟೆ ಕಿರಿಕಿರಿ. ತೀವ್ರ ನೋವು ಅಥವಾ ಗಾಢ ಮೂತ್ರ ಇದ್ದರೆ ತಿಳಿಸಿ."
+   },
+   "dosage": {
+    "en": "Usually once a day, as prescribed.",
+    "hi": "आमतौर पर दिन में एक बार, डॉक्टर के अनुसार।",
+    "kn": "ಸಾಮಾನ್ಯವಾಗಿ ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ, ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ."
+   },
+   "purpose": "chol"
+  },
+  {
+   "id": "clp",
+   "barcode": "8901000000269",
+   "name": "Clopidogrel 75 mg",
+   "emoji": "🔵",
+   "rx": true,
+   "uses": {
+    "en": "Prevents blood clots after a heart attack, stent or stroke.",
+    "hi": "हार्ट अटैक, स्टेंट या स्ट्रोक के बाद खून के थक्के रोकता है।",
+    "kn": "ಹೃದಯಾಘಾತ, ಸ್ಟೆಂಟ್ ಅಥವಾ ಪಾರ್ಶ್ವವಾಯುವಿನ ನಂತರ ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟುವುದನ್ನು ತಡೆಯುತ್ತದೆ."
+   },
+   "side_effects": {
+    "en": "Bleeding, easy bruising.",
+    "hi": "खून बहना, आसानी से नील पड़ना।",
+    "kn": "ರಕ್ತಸ್ರಾವ, ಸುಲಭವಾಗಿ ಬಾಸುಂಡೆ."
+   },
+   "dosage": {
+    "en": "Only as prescribed. Never stop on your own, especially after a stent.",
+    "hi": "केवल डॉक्टर के कहने पर। खुद बंद न करें, खासकर स्टेंट के बाद।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ. ನೀವಾಗಿಯೇ ನಿಲ್ಲಿಸಬೇಡಿ, ವಿಶೇಷವಾಗಿ ಸ್ಟೆಂಟ್ ನಂತರ."
+   },
+   "purpose": "clot"
+  },
+  {
+   "id": "lev",
+   "barcode": "8901000000276",
+   "name": "Levothyroxine",
+   "emoji": "🔴",
+   "rx": true,
+   "uses": {
+    "en": "Replaces thyroid hormone in an underactive thyroid.",
+    "hi": "कम सक्रिय थायरॉइड में थायरॉइड हार्मोन की पूर्ति।",
+    "kn": "ಕಡಿಮೆ ಥೈರಾಯ್ಡ್‌ನಲ್ಲಿ ಥೈರಾಯ್ಡ್ ಹಾರ್ಮೋನ್ ಪೂರೈಕೆ."
+   },
+   "side_effects": {
+    "en": "Too much causes palpitations, anxiety, weight loss.",
+    "hi": "ज़्यादा होने पर धड़कन तेज़, घबराहट, वज़न घटना।",
+    "kn": "ಹೆಚ್ಚಾದರೆ ಹೃದಯ ಬಡಿತ ಹೆಚ್ಚು, ಆತಂಕ, ತೂಕ ಇಳಿಕೆ."
+   },
+   "dosage": {
+    "en": "Once a day on an empty stomach, 30 to 60 minutes before breakfast, at the same time each day. Dose is set from blood tests.",
+    "hi": "दिन में एक बार खाली पेट, नाश्ते से 30 से 60 मिनट पहले, रोज़ एक ही समय पर। खुराक खून की जाँच से तय होती है।",
+    "kn": "ದಿನಕ್ಕೆ ಒಂದು ಬಾರಿ ಖಾಲಿ ಹೊಟ್ಟೆಯಲ್ಲಿ, ತಿಂಡಿಗೆ 30–60 ನಿಮಿಷ ಮೊದಲು, ಪ್ರತಿದಿನ ಒಂದೇ ಸಮಯದಲ್ಲಿ. ಪ್ರಮಾಣ ರಕ್ತ ಪರೀಕ್ಷೆಯಿಂದ ನಿರ್ಧಾರ."
+   },
+   "purpose": "thy"
+  },
+  {
+   "id": "fer",
+   "barcode": "8901000000283",
+   "name": "Ferrous sulfate (iron)",
+   "emoji": "🟢",
+   "rx": false,
+   "uses": {
+    "en": "Treats iron deficiency.",
+    "hi": "आयरन की कमी का इलाज।",
+    "kn": "ಕಬ್ಬಿಣದ ಕೊರತೆಯ ಚಿಕಿತ್ಸೆ."
+   },
+   "side_effects": {
+    "en": "Dark stools, constipation, nausea. Overdose is dangerous for children: keep out of reach.",
+    "hi": "गहरे रंग का मल, कब्ज़, मिचली। बच्चों के लिए अधिक मात्रा खतरनाक: पहुँच से दूर रखें।",
+    "kn": "ಗಾಢ ಬಣ್ಣದ ಮಲ, ಮಲಬದ್ಧತೆ, ವಾಕರಿಕೆ. ಮಕ್ಕಳಿಗೆ ಹೆಚ್ಚು ಪ್ರಮಾಣ ಅಪಾಯಕಾರಿ: ಕೈಗೆ ಸಿಗದಂತೆ ಇಡಿ."
+   },
+   "dosage": {
+    "en": "As on the label or as your doctor says. Best absorbed on an empty stomach, or with food if it upsets you.",
+    "hi": "लेबल या डॉक्टर के अनुसार। खाली पेट बेहतर अवशोषण; पेट खराब हो तो खाने के साथ लें।",
+    "kn": "ಲೇಬಲ್ ಅಥವಾ ವೈದ್ಯರ ಪ್ರಕಾರ. ಖಾಲಿ ಹೊಟ್ಟೆಯಲ್ಲಿ ಉತ್ತಮ ಹೀರಿಕೆ; ಹೊಟ್ಟೆ ಕೆಟ್ಟರೆ ಊಟದ ಜೊತೆ ಸೇವಿಸಿ."
+   },
+   "purpose": "vit"
+  },
+  {
+   "id": "cya",
+   "barcode": "8901000000290",
+   "name": "Cyanocobalamin (vitamin B12)",
+   "emoji": "🟣",
+   "rx": false,
+   "uses": {
+    "en": "Treats vitamin B12 deficiency.",
+    "hi": "विटामिन B12 की कमी का इलाज।",
+    "kn": "ವಿಟಮಿನ್ B12 ಕೊರತೆಯ ಚಿಕಿತ್ಸೆ."
+   },
+   "side_effects": {
+    "en": "Usually well tolerated. Rarely itching or mild diarrhea.",
+    "hi": "आमतौर पर ठीक सहन होती है। कभी-कभी खुजली या हल्का दस्त।",
+    "kn": "ಸಾಮಾನ್ಯವಾಗಿ ಚೆನ್ನಾಗಿ ಸಹಿಸಲ್ಪಡುತ್ತದೆ. ಅಪರೂಪಕ್ಕೆ ತುರಿಕೆ ಅಥವಾ ಸ್ವಲ್ಪ ಭೇದಿ."
+   },
+   "dosage": {
+    "en": "As on the label or as your doctor says. Tablets or injections.",
+    "hi": "लेबल या डॉक्टर के अनुसार। गोली या इंजेक्शन।",
+    "kn": "ಲೇಬಲ್ ಅಥವಾ ವೈದ್ಯರ ಪ್ರಕಾರ. ಮಾತ್ರೆ ಅಥವಾ ಚುಚ್ಚುಮದ್ದು."
+   },
+   "purpose": "vit"
+  },
+  {
+   "id": "mec",
+   "barcode": "8901000000297",
+   "name": "Methylcobalamin (vitamin B12)",
+   "emoji": "🟤",
+   "rx": false,
+   "uses": {
+    "en": "Treats vitamin B12 deficiency and some nerve symptoms.",
+    "hi": "विटामिन B12 की कमी और कुछ नस संबंधी लक्षणों का इलाज।",
+    "kn": "ವಿಟಮಿನ್ B12 ಕೊರತೆ ಮತ್ತು ಕೆಲವು ನರ ಲಕ್ಷಣಗಳ ಚಿಕಿತ್ಸೆ."
+   },
+   "side_effects": {
+    "en": "Usually well tolerated. Rarely itching or mild diarrhea.",
+    "hi": "आमतौर पर ठीक सहन होती है। कभी-कभी खुजली या हल्का दस्त।",
+    "kn": "ಸಾಮಾನ್ಯವಾಗಿ ಚೆನ್ನಾಗಿ ಸಹಿಸಲ್ಪಡುತ್ತದೆ. ಅಪರೂಪಕ್ಕೆ ತುರಿಕೆ ಅಥವಾ ಸ್ವಲ್ಪ ಭೇದಿ."
+   },
+   "dosage": {
+    "en": "As on the label or as your doctor says.",
+    "hi": "लेबल या डॉक्टर के अनुसार लें।",
+    "kn": "ಲೇಬಲ್ ಅಥವಾ ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಬಳಸಿ."
+   },
+   "purpose": "vit"
+  },
+  {
+   "id": "ser",
+   "barcode": "8901000000304",
+   "name": "Sertraline 50 mg",
+   "emoji": "🟡",
+   "rx": true,
+   "uses": {
+    "en": "Depression and anxiety disorders.",
+    "hi": "अवसाद और चिंता विकार।",
+    "kn": "ಖಿನ್ನತೆ ಮತ್ತು ಆತಂಕ ಕಾಯಿಲೆ."
+   },
+   "side_effects": {
+    "en": "Nausea, sleep changes, sexual side effects. Tell your doctor at once about worsening mood or thoughts of self-harm.",
+    "hi": "मिचली, नींद में बदलाव, यौन समस्याएँ। मन बिगड़ने या खुद को नुकसान के विचार आएँ तो तुरंत डॉक्टर को बताएँ।",
+    "kn": "ವಾಕರಿಕೆ, ನಿದ್ರೆ ಬದಲಾವಣೆ, ಲೈಂಗಿಕ ಸಮಸ್ಯೆ. ಮನಸ್ಥಿತಿ ಹದಗೆಟ್ಟರೆ ಅಥವಾ ಸ್ವಯಂ ಹಾನಿಯ ಯೋಚನೆ ಬಂದರೆ ತಕ್ಷಣ ವೈದ್ಯರಿಗೆ ತಿಳಿಸಿ."
+   },
+   "dosage": {
+    "en": "Only as prescribed by your doctor. Do not stop suddenly without advice.",
+    "hi": "केवल डॉक्टर के कहने पर लें। अचानक बंद न करें।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ ಬಳಸಿ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "mind"
+  },
+  {
+   "id": "esc",
+   "barcode": "8901000000311",
+   "name": "Escitalopram 10 mg",
+   "emoji": "🟠",
+   "rx": true,
+   "uses": {
+    "en": "Depression and anxiety disorders.",
+    "hi": "अवसाद और चिंता विकार।",
+    "kn": "ಖಿನ್ನತೆ ಮತ್ತು ಆತಂಕ ಕಾಯಿಲೆ."
+   },
+   "side_effects": {
+    "en": "Nausea, sleep changes, sexual side effects. Tell your doctor at once about worsening mood or thoughts of self-harm.",
+    "hi": "मिचली, नींद में बदलाव, यौन समस्याएँ। मन बिगड़ने या खुद को नुकसान के विचार आएँ तो तुरंत डॉक्टर को बताएँ।",
+    "kn": "ವಾಕರಿಕೆ, ನಿದ್ರೆ ಬದಲಾವಣೆ, ಲೈಂಗಿಕ ಸಮಸ್ಯೆ. ಮನಸ್ಥಿತಿ ಹದಗೆಟ್ಟರೆ ಅಥವಾ ಸ್ವಯಂ ಹಾನಿಯ ಯೋಚನೆ ಬಂದರೆ ತಕ್ಷಣ ವೈದ್ಯರಿಗೆ ತಿಳಿಸಿ."
+   },
+   "dosage": {
+    "en": "Only as prescribed by your doctor. Do not stop suddenly without advice.",
+    "hi": "केवल डॉक्टर के कहने पर लें। अचानक बंद न करें।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ ಬಳಸಿ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "mind"
+  },
+  {
+   "id": "lvt",
+   "barcode": "8901000000318",
+   "name": "Levetiracetam 500 mg",
+   "emoji": "⚪",
+   "rx": true,
+   "uses": {
+    "en": "Prevents seizures.",
+    "hi": "दौरे रोकता है।",
+    "kn": "ಅಪಸ್ಮಾರ ದಾಳಿ ತಡೆಯುತ್ತದೆ."
+   },
+   "side_effects": {
+    "en": "Drowsiness, irritability, mood changes.",
+    "hi": "नींद, चिड़चिड़ापन, मूड में बदलाव।",
+    "kn": "ನಿದ್ರೆ, ಕಿರಿಕಿರಿ, ಮನಸ್ಥಿತಿ ಬದಲಾವಣೆ."
+   },
+   "dosage": {
+    "en": "Only as prescribed. Never stop suddenly.",
+    "hi": "केवल डॉक्टर के कहने पर लें। अचानक बंद न करें।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ ಬಳಸಿ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "seiz"
+  },
+  {
+   "id": "val",
+   "barcode": "8901000000325",
+   "name": "Valproate 500 mg",
+   "emoji": "🔵",
+   "rx": true,
+   "uses": {
+    "en": "Prevents seizures. Also used in bipolar disorder.",
+    "hi": "दौरे रोकता है। द्विध्रुवी विकार में भी प्रयोग।",
+    "kn": "ಅಪಸ್ಮಾರ ದಾಳಿ ತಡೆಯುತ್ತದೆ. ಬೈಪೋಲಾರ್ ಕಾಯಿಲೆಯಲ್ಲೂ ಬಳಕೆ."
+   },
+   "side_effects": {
+    "en": "Weight gain, tremor, liver effects. Can seriously harm an unborn baby: women who could become pregnant need specialist advice.",
+    "hi": "वज़न बढ़ना, हाथ काँपना, लिवर पर असर। अजन्मे शिशु को गंभीर नुकसान: गर्भधारण योग्य महिलाओं को विशेषज्ञ की सलाह ज़रूरी।",
+    "kn": "ತೂಕ ಹೆಚ್ಚಳ, ಕೈ ನಡುಕ, ಯಕೃತ್ತಿನ ಮೇಲೆ ಪರಿಣಾಮ. ಹುಟ್ಟದ ಮಗುವಿಗೆ ಗಂಭೀರ ಹಾನಿ: ಗರ್ಭಧರಿಸಬಹುದಾದ ಮಹಿಳೆಯರಿಗೆ ತಜ್ಞರ ಸಲಹೆ ಅಗತ್ಯ."
+   },
+   "dosage": {
+    "en": "Only as prescribed. Never stop suddenly.",
+    "hi": "केवल डॉक्टर के कहने पर लें। अचानक बंद न करें।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ ಬಳಸಿ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "seiz"
+  },
+  {
+   "id": "car",
+   "barcode": "8901000000332",
+   "name": "Carbamazepine 200 mg",
+   "emoji": "🔴",
+   "rx": true,
+   "uses": {
+    "en": "Seizures and nerve pain.",
+    "hi": "दौरे और नस का दर्द।",
+    "kn": "ಅಪಸ್ಮಾರ ಮತ್ತು ನರ ನೋವು."
+   },
+   "side_effects": {
+    "en": "Dizziness, drowsiness. Rare serious rash and blood effects: get urgent help for rash or fever.",
+    "hi": "चक्कर, नींद। दाने या बुखार हो तो तुरंत मदद लें (गंभीर दाने व खून पर असर संभव)।",
+    "kn": "ತಲೆಸುತ್ತು, ನಿದ್ರೆ. ದದ್ದು ಅಥವಾ ಜ್ವರ ಇದ್ದರೆ ತಕ್ಷಣ ಸಹಾಯ ಪಡೆಯಿರಿ (ಗಂಭೀರ ದದ್ದು ಮತ್ತು ರಕ್ತದ ಮೇಲೆ ಪರಿಣಾಮ ಸಾಧ್ಯ)."
+   },
+   "dosage": {
+    "en": "Only as prescribed. Never stop suddenly.",
+    "hi": "केवल डॉक्टर के कहने पर लें। अचानक बंद न करें।",
+    "kn": "ವೈದ್ಯರ ಸೂಚನೆಯಂತೆ ಮಾತ್ರ ಬಳಸಿ. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ನಿಲ್ಲಿಸಬೇಡಿ."
+   },
+   "purpose": "seiz"
+  }
+ ],
+ "interactions": [
+  {
+   "a": "ibu",
+   "b": "asp",
+   "message": {
+    "en": "Ibuprofen can weaken aspirin's heart protection and raise bleeding risk.",
+    "hi": "इबुप्रोफेन एस्पिरिन के हृदय-सुरक्षा असर को कम कर सकता है और खून बहने का जोखिम बढ़ाता है।",
+    "kn": "ಐಬುಪ್ರೊಫೇನ್ ಆಸ್ಪಿರಿನ್‌ನ ಹೃದಯ ರಕ್ಷಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಬಹುದು ಮತ್ತು ರಕ್ತಸ್ರಾವದ ಅಪಾಯ ಹೆಚ್ಚಿಸಬಹುದು."
+   }
+  },
+  {
+   "a": "asp",
+   "b": "clp",
+   "message": {
+    "en": "Together they raise bleeding risk. Take both only if your doctor prescribed both.",
+    "hi": "दोनों साथ लेने पर खून बहने का जोखिम बढ़ता है। केवल तब लें जब डॉक्टर ने दोनों लिखी हों।",
+    "kn": "ಎರಡನ್ನೂ ಒಟ್ಟಿಗೆ ತೆಗೆದುಕೊಂಡರೆ ರಕ್ತಸ್ರಾವದ ಅಪಾಯ ಹೆಚ್ಚು. ವೈದ್ಯರು ಎರಡನ್ನೂ ಬರೆದಿದ್ದರೆ ಮಾತ್ರ ಬಳಸಿ."
+   }
+  },
+  {
+   "a": "clp",
+   "b": "ome",
+   "message": {
+    "en": "Omeprazole can reduce how well clopidogrel works. Ask your doctor about an alternative.",
+    "hi": "ओमेप्राज़ोल क्लोपिडोग्रेल के असर को कम कर सकता है। डॉक्टर से विकल्प पूछें।",
+    "kn": "ಒಮೆಪ್ರಜೋಲ್ ಕ್ಲೋಪಿಡೋಗ್ರೆಲ್‌ನ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆ ಮಾಡಬಹುದು. ಪರ್ಯಾಯದ ಬಗ್ಗೆ ವೈದ್ಯರನ್ನು ಕೇಳಿ."
+   }
+  },
+  {
+   "a": "ibu",
+   "b": "los",
+   "message": {
+    "en": "Ibuprofen can weaken blood pressure medicine and strain the kidneys.",
+    "hi": "इबुप्रोफेन रक्तचाप की दवा का असर घटा सकता है और किडनी पर ज़ोर डाल सकता है।",
+    "kn": "ಐಬುಪ್ರೊಫೇನ್ ರಕ್ತದೊತ್ತಡ ಔಷಧದ ಪರಿಣಾಮ ಕಡಿಮೆ ಮಾಡಿ ಕಿಡ್ನಿಗೆ ಒತ್ತಡ ಹಾಕಬಹುದು."
+   }
+  },
+  {
+   "a": "ibu",
+   "b": "tel",
+   "message": {
+    "en": "Ibuprofen can weaken blood pressure medicine and strain the kidneys.",
+    "hi": "इबुप्रोफेन रक्तचाप की दवा का असर घटा सकता है और किडनी पर ज़ोर डाल सकता है।",
+    "kn": "ಐಬುಪ್ರೊಫೇನ್ ರಕ್ತದೊತ್ತಡ ಔಷಧದ ಪರಿಣಾಮ ಕಡಿಮೆ ಮಾಡಿ ಕಿಡ್ನಿಗೆ ಒತ್ತಡ ಹಾಕಬಹುದು."
+   }
+  },
+  {
+   "a": "ibu",
+   "b": "ena",
+   "message": {
+    "en": "Ibuprofen can weaken blood pressure medicine and strain the kidneys.",
+    "hi": "इबुप्रोफेन रक्तचाप की दवा का असर घटा सकता है और किडनी पर ज़ोर डाल सकता है।",
+    "kn": "ಐಬುಪ್ರೊಫೇನ್ ರಕ್ತದೊತ್ತಡ ಔಷಧದ ಪರಿಣಾಮ ಕಡಿಮೆ ಮಾಡಿ ಕಿಡ್ನಿಗೆ ಒತ್ತಡ ಹಾಕಬಹುದು."
+   }
+  },
+  {
+   "a": "lev",
+   "b": "fer",
+   "message": {
+    "en": "Iron blocks absorption of levothyroxine. Take them at least 4 hours apart.",
+    "hi": "आयरन लेवोथायरॉक्सिन का अवशोषण रोकता है। दोनों के बीच कम से कम 4 घंटे का अंतर रखें।",
+    "kn": "ಕಬ್ಬಿಣ ಲೆವೊಥೈರಾಕ್ಸಿನ್ ಹೀರಿಕೆಯನ್ನು ತಡೆಯುತ್ತದೆ. ಎರಡರ ನಡುವೆ ಕನಿಷ್ಠ 4 ಗಂಟೆ ಅಂತರ ಇರಲಿ."
+   }
+  },
+  {
+   "a": "ibu",
+   "b": "ser",
+   "message": {
+    "en": "Together they raise the risk of bleeding, especially in the stomach.",
+    "hi": "साथ लेने पर खून बहने, खासकर पेट में, का जोखिम बढ़ता है।",
+    "kn": "ಒಟ್ಟಿಗೆ ತೆಗೆದುಕೊಂಡರೆ ರಕ್ತಸ್ರಾವದ, ವಿಶೇಷವಾಗಿ ಹೊಟ್ಟೆಯಲ್ಲಿ, ಅಪಾಯ ಹೆಚ್ಚು."
+   }
+  },
+  {
+   "a": "asp",
+   "b": "ser",
+   "message": {
+    "en": "Together they raise the risk of bleeding, especially in the stomach.",
+    "hi": "साथ लेने पर खून बहने, खासकर पेट में, का जोखिम बढ़ता है।",
+    "kn": "ಒಟ್ಟಿಗೆ ತೆಗೆದುಕೊಂಡರೆ ರಕ್ತಸ್ರಾವದ, ವಿಶೇಷವಾಗಿ ಹೊಟ್ಟೆಯಲ್ಲಿ, ಅಪಾಯ ಹೆಚ್ಚು."
+   }
+  },
+  {
+   "a": "dex",
+   "b": "ser",
+   "message": {
+    "en": "Together they can cause serotonin syndrome: agitation, fever, fast heartbeat. Ask a doctor first.",
+    "hi": "साथ लेने पर सेरोटोनिन सिंड्रोम हो सकता है: बेचैनी, बुखार, तेज़ धड़कन। पहले डॉक्टर से पूछें।",
+    "kn": "ಒಟ್ಟಿಗೆ ತೆಗೆದುಕೊಂಡರೆ ಸೆರೋಟೋನಿನ್ ಸಿಂಡ್ರೋಮ್ ಆಗಬಹುದು: ಚಡಪಡಿಕೆ, ಜ್ವರ, ವೇಗದ ಹೃದಯ ಬಡಿತ. ಮೊದಲು ವೈದ್ಯರನ್ನು ಕೇಳಿ."
+   }
+  },
+  {
+   "a": "ibu",
+   "b": "esc",
+   "message": {
+    "en": "Together they raise the risk of bleeding, especially in the stomach.",
+    "hi": "साथ लेने पर खून बहने, खासकर पेट में, का जोखिम बढ़ता है।",
+    "kn": "ಒಟ್ಟಿಗೆ ತೆಗೆದುಕೊಂಡರೆ ರಕ್ತಸ್ರಾವದ, ವಿಶೇಷವಾಗಿ ಹೊಟ್ಟೆಯಲ್ಲಿ, ಅಪಾಯ ಹೆಚ್ಚು."
+   }
+  },
+  {
+   "a": "asp",
+   "b": "esc",
+   "message": {
+    "en": "Together they raise the risk of bleeding, especially in the stomach.",
+    "hi": "साथ लेने पर खून बहने, खासकर पेट में, का जोखिम बढ़ता है।",
+    "kn": "ಒಟ್ಟಿಗೆ ತೆಗೆದುಕೊಂಡರೆ ರಕ್ತಸ್ರಾವದ, ವಿಶೇಷವಾಗಿ ಹೊಟ್ಟೆಯಲ್ಲಿ, ಅಪಾಯ ಹೆಚ್ಚು."
+   }
+  },
+  {
+   "a": "dex",
+   "b": "esc",
+   "message": {
+    "en": "Together they can cause serotonin syndrome: agitation, fever, fast heartbeat. Ask a doctor first.",
+    "hi": "साथ लेने पर सेरोटोनिन सिंड्रोम हो सकता है: बेचैनी, बुखार, तेज़ धड़कन। पहले डॉक्टर से पूछें।",
+    "kn": "ಒಟ್ಟಿಗೆ ತೆಗೆದುಕೊಂಡರೆ ಸೆರೋಟೋನಿನ್ ಸಿಂಡ್ರೋಮ್ ಆಗಬಹುದು: ಚಡಪಡಿಕೆ, ಜ್ವರ, ವೇಗದ ಹೃದಯ ಬಡಿತ. ಮೊದಲು ವೈದ್ಯರನ್ನು ಕೇಳಿ."
+   }
+  }
+ ]
+}
